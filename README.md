@@ -5,7 +5,7 @@ Shopping App built with Firestore - MVVM - Navigation
 2. MVVM -fetches those products. 
 3. Used Java methods to perform the sum of the arraylist to get the cart and total price quantities. 
 
-YouTube Tutorial: 
+# YouTube Tutorial: https://www.youtube.com/watch?v=XCSNdwSArxU&list=PLKETiCsEsH0r5YAamOJFtfSBecm6Gwgpq&index=8
 
 
 # LOGIN FRAGMENT

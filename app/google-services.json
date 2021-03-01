@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589397284066",
+    "project_id": "shopcart-59c64",
+    "storage_bucket": "shopcart-59c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589397284066:android:bf9537788cde7215413abb",
+        "android_client_info": {
+          "package_name": "com.example.shopcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589397284066-m5mjrspe9mvn621n0jprefjodq1rargo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUeUXLB0bgi_cXt6Rj8yu_AOMyNfl73ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589397284066-m5mjrspe9mvn621n0jprefjodq1rargo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
